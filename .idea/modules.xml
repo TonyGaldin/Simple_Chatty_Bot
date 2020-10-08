@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Simple_Chatty_Bot.Problems-Boys_in_a_sport_class.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Simple_Chatty_Bot.Problems-Boys_in_a_sport_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Simple_Chatty_Bot.Problems-Boys_in_a_sport_class.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Simple_Chatty_Bot.Problems-Boys_in_a_sport_class.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Simple_Chatty_Bot.Problems-Boys_in_a_sport_class.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boys in a sport class/Simple_Chatty_Bot.Problems-Boys_in_a_sport_class.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot.Problems-Healthy_sleep.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot.Problems-Healthy_sleep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot.Problems-Healthy_sleep.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot.Problems-Healthy_sleep.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot.Problems-Healthy_sleep.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Simple_Chatty_Bot.Problems-Healthy_sleep.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Java/Simple_Chatty_Bot.Problems-Hello,_Java.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Java/Simple_Chatty_Bot.Problems-Hello,_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Java/Simple_Chatty_Bot.Problems-Hello,_Java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Java/Simple_Chatty_Bot.Problems-Hello,_Java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Java/Simple_Chatty_Bot.Problems-Hello,_Java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Java/Simple_Chatty_Bot.Problems-Hello,_Java.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Interval/Simple_Chatty_Bot.Problems-Interval.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Interval/Simple_Chatty_Bot.Problems-Interval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Interval/Simple_Chatty_Bot.Problems-Interval.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Interval/Simple_Chatty_Bot.Problems-Interval.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Interval/Simple_Chatty_Bot.Problems-Interval.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Interval/Simple_Chatty_Bot.Problems-Interval.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Next even number/Simple_Chatty_Bot.Problems-Next_even_number.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Next even number/Simple_Chatty_Bot.Problems-Next_even_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Next even number/Simple_Chatty_Bot.Problems-Next_even_number.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Next even number/Simple_Chatty_Bot.Problems-Next_even_number.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Next even number/Simple_Chatty_Bot.Problems-Next_even_number.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Next even number/Simple_Chatty_Bot.Problems-Next_even_number.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing a magic letter/Simple_Chatty_Bot.Problems-Printing_a_magic_letter.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing a magic letter/Simple_Chatty_Bot.Problems-Printing_a_magic_letter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing a magic letter/Simple_Chatty_Bot.Problems-Printing_a_magic_letter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing a magic letter/Simple_Chatty_Bot.Problems-Printing_a_magic_letter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing a magic letter/Simple_Chatty_Bot.Problems-Printing_a_magic_letter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing a magic letter/Simple_Chatty_Bot.Problems-Printing_a_magic_letter.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Chatty_Bot.Problems-Queens.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Chatty_Bot.Problems-Queens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Chatty_Bot.Problems-Queens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Chatty_Bot.Problems-Queens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Chatty_Bot.Problems-Queens.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Chatty_Bot.Problems-Queens.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The countdown/Simple_Chatty_Bot.Problems-The_countdown.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The countdown/Simple_Chatty_Bot.Problems-The_countdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The countdown/Simple_Chatty_Bot.Problems-The_countdown.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The countdown/Simple_Chatty_Bot.Problems-The_countdown.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The countdown/Simple_Chatty_Bot.Problems-The_countdown.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The countdown/Simple_Chatty_Bot.Problems-The_countdown.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Three numbers/Simple_Chatty_Bot.Problems-Three_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Three numbers/Simple_Chatty_Bot.Problems-Three_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Three numbers/Simple_Chatty_Bot.Problems-Three_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Three numbers/Simple_Chatty_Bot.Problems-Three_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Three numbers/Simple_Chatty_Bot.Problems-Three_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Three numbers/Simple_Chatty_Bot.Problems-Three_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/We need to learn Java/Simple_Chatty_Bot.Problems-We_need_to_learn_Java.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/We need to learn Java/Simple_Chatty_Bot.Problems-We_need_to_learn_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/We need to learn Java/Simple_Chatty_Bot.Problems-We_need_to_learn_Java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/We need to learn Java/Simple_Chatty_Bot.Problems-We_need_to_learn_Java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/We need to learn Java/Simple_Chatty_Bot.Problems-We_need_to_learn_Java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/We need to learn Java/Simple_Chatty_Bot.Problems-We_need_to_learn_Java.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.test.iml" />
+    </modules>
+  </component>
+</project>
